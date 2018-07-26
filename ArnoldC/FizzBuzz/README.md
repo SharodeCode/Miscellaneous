@@ -1,6 +1,6 @@
 # ArnoldC FizzBuzz
 
-After stumbling on this gem of a programing lanuage, I could not help but spend some free time recreating the classic fizz buzz. Enjoyed it thoroughly and I hope you all feel the same way when reading it. Check the refrences for some great reading on this wicked language.
+After stumbling on this gem of a programming language, I could not help but spend some free time recreating the classic fizz buzz. Enjoyed it thoroughly and I hope you all feel the same way when reading it. Check the refrences for some great reading on this wicked language.
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ Java (if using lhartikk compiler)
 Follow these steps to run the program
 
 ```
-Copy the ArnoldC.jar int the project [ArnoldC](http://lhartikk.github.io/ArnoldC/)
+Copy the ArnoldC.jar into the project folder [ArnoldC](http://lhartikk.github.io/ArnoldC/)
 Open command prompt and navigate to the project folder
 
 Run the following commands
@@ -40,6 +40,6 @@ java FizzBuzz
 
 This project is licensed under the GNU General Public License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Refrences
+## References
 
 * [ArnoldC Basics](https://github.com/lhartikk/ArnoldC/wiki/ArnoldC)
