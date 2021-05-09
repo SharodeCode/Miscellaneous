@@ -46,7 +46,7 @@ This Java code is based on the formula be Luca Moroni (2015). Used to take numbe
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SharodeCode/Miscellaneous/issues) for a list of proposed features (and known issues).
 
 
 
